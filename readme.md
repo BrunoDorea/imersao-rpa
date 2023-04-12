@@ -24,7 +24,7 @@ Os projetos desse repositório foram desenvolvidos para a `Semana da Imersão RP
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="">
+  UI Path
 </p>
 
 ## 📝 License
