@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d8+Ht47p8vqEOZ/HdRtKHd7vdK6+Bc6OwPhhZqmuR4NYwkG54OGi2z4R3g+Y9iOgW4W3BTnpiaOG2jp9mSQsIw==",
+  "dgSpecHash": "ERJCfIduV9dQeQgvu0ZpDDCu7cXKjUFJz9E2VZnQBSl/IH92g3WzqlNgeYUARjzc8TooXB/p1Gnbz6izSX6s6w==",
   "success": true,
-  "projectFilePath": "C:\\Github\\imersao-rpa\\aula-01\\Auditoria\\.local\\",
+  "projectFilePath": "C:\\Github\\imersao-rpa\\Auditoria\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\AppData\\Local\\UiPath\\NugetFallbackFolder\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\AppData\\Local\\UiPath\\NugetFallbackFolder\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

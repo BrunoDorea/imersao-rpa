@@ -21266,9 +21266,9 @@
     "restore": {
       "projectUniqueName": "Auditoria",
       "projectName": "Auditoria",
-      "projectPath": "C:\\Github\\imersao-rpa\\aula-01\\Auditoria\\.local",
+      "projectPath": "C:\\Github\\imersao-rpa\\Auditoria\\.local",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\imersao-rpa\\aula-01\\Auditoria\\.local",
+      "outputPath": "C:\\Github\\imersao-rpa\\Auditoria\\.local",
       "fallbackFolders": [
         "C:\\Users\\bruno\\AppData\\Local\\UiPath\\NugetFallbackFolder"
       ]
